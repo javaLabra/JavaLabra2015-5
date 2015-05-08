@@ -9,9 +9,9 @@ Alkukesän 2015 Ohjelmoinnin harjoitustyö -kurssin kurssisivu. **Kurssisivu pä
 * [Git-ohje](ohjeet/Git-ohje.md)
 * Arvosteluperusteet
 * [Oppimistavoitematriisi](http://www.cs.helsinki.fi/courses/58160/matriisi)
-* Ohjeet koodikatselmointiin
+* [Ohjeet koodikatselmointiin](ohjeet/Koodikatselmointi.md)
 * [Kertausta](ohjeet/Kertausta.md)
-* Maven, Cobertura ja PIT
+* [Maven ja PIT](ohjeet/Maven-ja-PIT.md)
 * [JavaDoc](ohjeet/JavaDoc.md)
 * [Checkstyle](ohjeet/Checkstyle.md)
 
@@ -27,6 +27,8 @@ Sähköpostit: etunimi.sukunimi@helsinki.fi
 **EPÄSELVYYKSIÄ?** Kysy ohjaajilta mieluiten ohjauksissa tai IRCissä tai lähetä sähköpostia.
 
 ## Uutisia
+
+* **Aloitusluento maanantaina 11.5 klo 16-18 luokassa B221, läsnäolo pakollinen!**
 
 ### Aikataulu
 
