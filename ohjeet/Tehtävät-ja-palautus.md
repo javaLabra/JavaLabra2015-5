@@ -16,10 +16,10 @@ Jokaisen palautuksen yhteydessä ohjelma tulee voida ajaa ilman virheilmoituksia
 * **Lisäaikaa saa hyvällä syyllä, etukäteen pyytämällä**
 
 ### Deadline I, torstai 14.5.
-* Deadlinen 1 vaatimukset
+* [Deadlinen 1 vaatimukset](Deadline-1.md)
 
 ### Deadline II, torstai 21.5.
-* Deadlinen 2 vaatimukset
+* [Deadlinen 2 vaatimukset](Deadline-2.md)
 
 ### Deadline III, torstai 28.5.
 * Deadlinen 3 vaatimukset
