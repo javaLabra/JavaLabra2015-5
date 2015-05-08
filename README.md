@@ -4,10 +4,10 @@ Alkukesän 2015 Ohjelmoinnin harjoitustyö -kurssin kurssisivu. **Kurssisivu pä
 
 * [Yleistä](ohjeet/Yleistä.md)
 * [Esimerkkejä aiheista](ohjeet/Esimerkkejä-aiheista.md)
-* Tehtävät ja palautus
+* [Tehtävät ja palautus](ohjeet/Tehtävät-ja-palautus.md)
 * [Koodin laatuvaatimukset](ohjeet/Koodin-laatuvaatimukset.md)
 * [Git-ohje](ohjeet/Git-ohje.md)
-* Arvosteluperusteet
+* [Arvosteluperusteet](ohjeet/Arvosteluperusteet.md)
 * [Oppimistavoitematriisi](http://www.cs.helsinki.fi/courses/58160/matriisi)
 * [Ohjeet koodikatselmointiin](ohjeet/Koodikatselmointi.md)
 * [Kertausta](ohjeet/Kertausta.md)
