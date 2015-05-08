@@ -28,7 +28,7 @@ Sähköpostit: etunimi.sukunimi@helsinki.fi
 
 ## Uutisia
 
-* **Aloitusluento maanantaina 11.5 klo 16-18 luokassa B221, läsnäolo pakollinen!**
+* **Aloitusluento maanantaina 11.5 klo 16-18 luokassa B119, läsnäolo pakollinen!**
 
 ### Aikataulu
 
