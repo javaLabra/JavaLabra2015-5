@@ -37,6 +37,7 @@ Pajaa tarjolla alla ilmoitettuina aikoina. Pajat pidetään [Exactumissa](http:/
 | klo   | ma  | ti    | ke   | to       | pe    | 
 | ---   | --- | ---   | ---  | ---      | ---   | 
 |14-16  | -   | -     | PAJA | -        | -     |
-|16-18  | -   | PAJA  | -    | -        | -     |
+|16-18  | -   | PAJA  | -    | PAJA     | -     |
 | 23:59 | -   | -     | -    | DL (23:59)        | -     | 
 
+Pajaohjausta ei pidetä helatorstaina 14.05.
