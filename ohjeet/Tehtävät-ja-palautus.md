@@ -28,10 +28,10 @@ Jokaisen palautuksen yhteydessä ohjelma tulee voida ajaa ilman virheilmoituksia
 * Deadline [koodikatselmoinnille](Koodikatselmointi.md)
 
 ### Deadline IV, torstai 4.6.
-* Deadlinen 4 vaatimukset
+* [Deadlinen 4 vaatimukset](Deadline-4.md)
 
 ### Deadline V, torstai 11.6.
-* Deadlinen 5 vaatimukset
+* Deadlinen 5 vaatimukset(Deadline-5.md)
 
 ### Deadline Katselmointi II, sunnuntai 14.6.
 * Deadline [koodikatselmoinnille](Koodikatselmointi.md)
