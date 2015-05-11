@@ -26,11 +26,13 @@ Sähköpostit: etunimi.sukunimi@helsinki.fi
 
 ## Uutisia
 
-* **Aloitusluento maanantaina 11.5 klo 16-18 luokassa B119, läsnäolo pakollinen!**
+* **(11.05.) Pajaohjauksien luokka muuttui! Uusi luokka BK107.**
+
+* Aloitusluento maanantaina 11.5 klo 16-18 luokassa B119, läsnäolo pakollinen!
 
 ### Aikataulu
 
-Pajaa tarjolla alla ilmoitettuina aikoina. Pajat pidetään [Exactumissa](http://www.helsinki.fi/teknos/opetustilat/kumpula/gh2b/default.htm) luokassa **B221**, ellei toisin ilmoiteta.
+Pajaa tarjolla alla ilmoitettuina aikoina. Pajat pidetään [Exactumissa](http://www.helsinki.fi/teknos/opetustilat/kumpula/gh2b/default.htm) luokassa **BK107**, ellei toisin ilmoiteta.
 
 | klo   | ma  | ti    | ke   | to       | pe    | 
 | ---   | --- | ---   | ---  | ---      | ---   | 
