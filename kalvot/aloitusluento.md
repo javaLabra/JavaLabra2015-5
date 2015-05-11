@@ -49,7 +49,7 @@
     - Laivanupotus
     - Olutmuistio
     - Fysiikkasimulaattori
-    - Lisää [esimerkkiaiheita](Esimerkkejä-aihesta.md) kurssisivulla
+    - Lisää [esimerkkiaiheita](https://github.com/javaLabra/Javalabra2015-5/blob/master/ohjeet/Esimerkkej%C3%A4-aiheista.md) kurssisivulla
 - Pelit suosittuja, reaaliaikaiset pelit vähän haasteellisempia mutta toteutettavissa
 - **Valitse ennen kaikkea jokin itseäsi kiinnostava aihe!**
 
