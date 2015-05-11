@@ -1,7 +1,5 @@
 ﻿# Ohjelmoinnin harjoitustyö
 
-Alkukesän 2015 Ohjelmoinnin harjoitustyö -kurssin kurssisivu. **Kurssisivu päivittyy lähempänä kurssin alkua.**
-
 * [Yleistä](ohjeet/Yleistä.md)
 * [Esimerkkejä aiheista](ohjeet/Esimerkkejä-aiheista.md)
 * [Tehtävät ja palautus](ohjeet/Tehtävät-ja-palautus.md)
