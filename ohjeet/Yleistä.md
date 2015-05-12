@@ -21,3 +21,7 @@ Iteratiiviseen tapaan tehdä ohjelma liittyy kiinteästi automatisoitu testaus. 
 Voit tehdä harjoitustyöhösi aluksi tekstikäyttöliittymän ja vasta saatuasi ohjelman perustoiminnallisuuden toteutettua voit siirtyä graafisen käyttöliittymän toteutukseen. Graafinen käyttöliittymä on mahdollista jättää pois sopimuksen mukaan, mikäli aihevalinta ja toteutus tukevat tätä vaihtoehtoa. Graafiseen käyttöliittymän toteuttamiseen voit halutessasi käyttää NetBeansiin integroitua Swing GUI builderia. [Lisätietoa GUI-builderista](http://netbeans.org/kb/docs/java/gui-functionality.html)
 
 Harjoitustyön tavoitteena on tuottaa ohjelma, joka voitaisiin antaa toiselle opiskelijalle ylläpidettäväksi ja täydennettäväksi. Lopullisessa palautuksessa on oltava lähdekoodin lisäksi dokumentaatio sekä automaattiset testit.
+
+### Etäopinnot (avoin yliopisto)
+
+Avoimen opiskelijat voivat suorittaa alkukesän ohjelmoinnin harkkatyön etäopintona, jos eivät pysty osallistumaan opetukseen Kumpulassa. Kurssiin kuuluu pakollinen demotilaisuus, johon etäopintoina suorittaville anntetaan erillinen tehtävä. Tästä lisää myöhemmin. Apua työn kanssa saa kurssin IRC-kanavalta #javalabra @ IRCnet ja sähköpostitse ohjaajilta.
