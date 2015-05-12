@@ -26,6 +26,8 @@ Sähköpostit: etunimi.sukunimi@helsinki.fi
 
 ## Uutisia
 
+* (12.05.) Etäopintoja suorittaville kirjoitettu pieni osuus [yleistä](ohjeet/Yleistä.md)-kohtaan.
+
 * **(11.05.) Pajaohjauksien luokka muuttui! Uusi luokka BK107.**
 
 * Aloitusluento maanantaina 11.5 klo 16-18 luokassa B119, läsnäolo pakollinen!
