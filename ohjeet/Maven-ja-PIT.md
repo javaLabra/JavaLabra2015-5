@@ -11,6 +11,7 @@ Maven ei eroa "normaalista" Java-projektista kovinkaan paljoa. Suurin ero on pom
 
 Nyt projektisi pom.xml:n pitäisi näyttää jotakuinkin seuraavalta:
 ``` xml
+<?xml version="1.0" encoding="UTF-8"?>
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
@@ -62,6 +63,7 @@ Tämän xml:n alkuosa on jokaisella projektille yksilöllinen. Siihen emme koske
 Lisäyksen jälkeen pom.xml pitäisi näyttää jotakuinkin tältä:
 
 ``` xml
+<?xml version="1.0" encoding="UTF-8"?>
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
