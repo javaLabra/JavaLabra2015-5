@@ -26,6 +26,8 @@ Sähköpostit: etunimi.sukunimi@helsinki.fi
 
 ## Uutisia
 
+* (20.05.) Demotilaisuuksien ajankohdat päätetty (yhteen tulee osallistua): 15.6. klo 14-16 ja 16-18, 16.6. klo 14-16 ja 16-18, ilmottautuminen ja luokat ilmoitetaan sähköpostilla kurssin loppupuolella.
+
 * (12.05.) Etäopintoja suorittaville kirjoitettu pieni osuus [yleistä](ohjeet/Yleistä.md)-kohtaan.
 
 * **(11.05.) Pajaohjauksien luokka muuttui! Uusi luokka BK107.**
