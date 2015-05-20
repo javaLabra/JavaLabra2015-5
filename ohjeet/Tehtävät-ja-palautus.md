@@ -39,8 +39,12 @@ Jokaisen palautuksen yhteydessä ohjelma tulee voida ajaa ilman virheilmoituksia
 
 ### Demot
 
-* Demot pidetään 15.6. ja 16.6.
-* Tarkempi ajankohta sovitaan myöhemmin
+* Demotilaisuudet:
+  * ma 15.6. klo 14-16
+  * ma 15.6. klo 16-18
+  * ti 16.6. klo 14-16
+  * ti 16.6. klo 16-18
+* Luokat ja ilmottautuminen kurssin loppupuolella. Lähetämme sähköpostia asiasta.
 * Demotilaisuuteen on pakko osallistua.
 * Omaa työtä esitetään 5-10 min. 
 * Ohjelma ei tarvitse olla demottaessa valmis tai bugiton
