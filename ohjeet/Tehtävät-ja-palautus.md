@@ -53,5 +53,5 @@ Jokaisen palautuksen yhteydessä ohjelma tulee voida ajaa ilman virheilmoituksia
 * Avoimen opiskelijoille, jotka suorittavat kurssia etäopintoina ja eivät pitkän matkan vuoksi pääse demoamaan, järjestetään korvaava tehtävä. Tästä lisää myöhemmin. 
 
 ### Deadline VI ja lopullinen palautus, torstai 18.6.
-* Deadlinen 6 vaatimukset
+* [Deadlinen 6 vaatimukset](Deadline-6-lopullinen-palautus.md)
 * [Muistilista lopullista palautusta varten](Muistilista.md)
